@@ -2,6 +2,8 @@
 
 IntellectiQ is an innovative microlearning platform focused on technology-based subjects. This project was the **1st Rank Winner** for the CREST Data System Track during the Hackathon organized by the Computer Society of India in collaboration with TechHolding and IQM. IntellectiQ aims to enhance the educational experience by integrating advanced technology and innovative learning methods.
 
+[LinkedIn Post](https://www.linkedin.com/posts/harsh-parekh-233689221_bringiton-hackathon-edtech-activity-7188217855161622528-bQQv?utm_source=share&utm_medium=member_desktop) - on the event of hackathon.
+
 ## Key Features ✨
 
 1. **Video Content**: Users can upload educational videos to the platform.
